@@ -1,0 +1,11 @@
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\bin\Debug\Project1_Taz_Tri.exe.config
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\bin\Debug\Project1_Taz_Tri.exe
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\bin\Debug\Project1_Taz_Tri.pdb
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\obj\Debug\Project1_Taz_Tri.csproj.AssemblyReference.cache
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\obj\Debug\Project1_Taz_Tri.csproj.SuggestedBindingRedirects.cache
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\obj\Debug\Project1_Taz_Tri.Form1.resources
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\obj\Debug\Project1_Taz_Tri.Properties.Resources.resources
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\obj\Debug\Project1_Taz_Tri.csproj.GenerateResource.cache
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\obj\Debug\Project1_Taz_Tri.csproj.CoreCompileInputs.cache
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\obj\Debug\Project1_Taz_Tri.exe
+G:\9058\Project1_Taz_Tri\Project1_Taz_Tri\obj\Debug\Project1_Taz_Tri.pdb
